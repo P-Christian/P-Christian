@@ -1,9 +1,10 @@
-# CHRISTIAN CASTILLO PARAYNO
+# Hello and Welcome!
+# My name is Christian Parayno
 
-Information Technology Student Majoring in System Development
+I'm a student taking Information & Technology majoring in System Development.
 
-- 👀 I’m interested in learning Application Development
-- 🌱 I’m currently learning Java Application Development
+- :grin: I’m interested in learning new things.
+- :smile: I want to try everything before I decided to focus on one path.
 - 🎯 Hobbies: Learning, reading manga and watching anime.
 
 # Languages & Dev Tools
@@ -13,3 +14,9 @@ Information Technology Student Majoring in System Development
 - Android Studio
 - Visual Studio Code
 - Eclipse
+- Unity
+
+# Other Tools
+- Adobe Premiere Pro
+- Canva
+- Figma
