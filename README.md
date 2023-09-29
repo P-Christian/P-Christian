@@ -11,8 +11,10 @@ I'm a student taking Information & Technology majoring in System Development.
 - HTML & CSS
 - Java
 - Flutter
+- React
 - Android Studio
 - Visual Studio Code
+- Visual Studio
 - Eclipse
 - Unity
 
