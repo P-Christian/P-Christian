@@ -23,4 +23,4 @@ I'm a student taking Information & Technology majoring in System Development.
 - Canva
 - Figma
 
-<a href="https://app.daily.dev/junmoxie"><img src="./devcard.png?r=89k&type=wide" width="500" alt="P-Christian's Dev Card"/></a>
+<a href="https://app.daily.dev/junmoxie"><img src="./devcard.png?r=89k&type=wide" width="500" alt="Christian's Dev Card"/></a>
