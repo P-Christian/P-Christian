@@ -4,7 +4,7 @@
 I'm a graduating student taking Information & Technology majoring in System Development.
 
 - 🌟 I’m interested in Web Development, Application Development, Flutter, and React
-- ⭐ I want to pursue a career in Application Development. I'm open to oppurtunities in either web or mobile platform.
+- ⭐ I want to pursue a career in Application Development. I'm open to opportunities in either web or mobile platform.
 - 🎯 Hobbies: Taking nature walks, Reading, Learning and Watching Anime.
 
 # Languages & Dev Tools
